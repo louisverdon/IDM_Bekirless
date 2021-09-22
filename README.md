@@ -4,10 +4,10 @@
 
 ## Date
 ## Auteurs : 
--Bekir    
--Tom     
--David   
--Louis   
+- Bekir Aydogdu  
+- Tom Jablonski       
+- David Tubeuf   
+- Louis Verdon   
           
 ## Version :
 
