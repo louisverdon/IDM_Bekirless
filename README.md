@@ -1,9 +1,9 @@
 # Titre projet
 
-# Nom de l'équipe : Bekirless
+## Nom de l'équipe : Bekirless
 
-# Date
-# Auteurs : 
+## Date
+## Auteurs : 
 -Bekir 
 -Tom
 -David
