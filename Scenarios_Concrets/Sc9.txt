@@ -1,0 +1,4 @@
+Au début de l'année, Bob n'a pas pu récupérer tous ses livres, il en manquait un.
+Quelques jours après, Bob utilise l'application et recherche le livre qu'il n'a pas pu récupérer.
+Sur la fiche du livre en question, il peut voir qu'il est de nouveau en stock.
+Il peut donc aller le récupérer auprès de l'application.

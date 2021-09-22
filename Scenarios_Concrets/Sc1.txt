@@ -1,0 +1,3 @@
+C'est le début de l'année, Bob veut adhérer à l'association.
+Alice lui demande son nom, son prénom, son adresse et sa classe.
+Elle rentre ensuite ces données dans l'application et valide son inscription.

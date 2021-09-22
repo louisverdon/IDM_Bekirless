@@ -1,0 +1,4 @@
+Bob change de lycée.
+Il veut donc se désinscrire de l'association.
+Alice lui demande son nom et prénom et recherche sa fiche dans l'application.
+Elle supprime ensuite la fiche de Bob de l'application.

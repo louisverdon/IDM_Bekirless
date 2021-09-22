@@ -1,0 +1,2 @@
+Les livres de Bob sont endommagés,
+Alice l'indique dans l'application et sa caution n'est pas rendu.

@@ -1,0 +1,4 @@
+C’est le début de l’année, Bob va récupérer ses livres. Il se rend au local. Alice l’accueille, et lui demande son nom et sa classe.
+Elle lui demande les livres dont il a besoin, et regarde s'ils sont disponibles.
+Ils sont tous disponibles donc elle fait l'inventaire de chaque livre, les ajoute dans la fiche de Bob et les donne à Bob.
+L'application indique la caution à payer, Bob la paye et Alice peut mettre que la transaction a été effectuée.

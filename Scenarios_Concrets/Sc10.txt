@@ -1,0 +1,4 @@
+Après avoir regarder le nombre de personnes qui souhaite un produit.
+Alice fait un devis auprès de la société à laquelle elle va acheter le produit.
+Une fois les produits achetés, Alice envoie une notification comme quoi le produit est disponible aux
+lycéen qui l'avait commandé.
